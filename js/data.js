@@ -1,35 +1,11 @@
 data = [
     {
-        title: "Titolo",
-        image: "../img/articoli/macchinina.jpg",
-        description: "it smells of shit it tastes of git xD"
+        title: "Gram mofago ",
+        image: "../img/articoli/grammofago.jpg",
+        description: "Grammofago in buon stato revisionato prezzo 150 €"
     },{
-        title: "Titolo",
-        image: "../img/articoli/mac.jpg",
-        description: "it smells of shit it tastes of git xD"
-    },{
-        title: "Titolo2",
-        image: "../img/articoli/casetta.jpg",
-        description: "it smells of bullshit D="
-    },{
-        title: "Titolo2",
-        image: "../img/articoli/casetta.jpg",
-        description: "it smells of bullshit D="
-    },{
-        title: "Titolo2",
-        image: "../img/articoli/casetta.jpg",
-        description: "it smells of bullshit D="
-    },{
-        title: "Titolo2",
-        image: "../img/articoli/casetta.jpg",
-        description: "it smells of bullshit D="
-    },{
-        title: "Bella casetta",
-        image: "../img/articoli/casetta.jpg",
-        description: "it smells of bullshit D="
-    },{
-        title: "sto cazzo",
-        image: "../img/articoli/mac.jpg",
-        description: "Bellissimo mac appena preso vendo causa doppio regalo perché sa di piscio"
+        title: "Specchio 80x80cm",
+        image: "../img/articoli/specchio.jpg",
+        description: "Specchio misure 80 x 80 cm in buon stato come da foto 30€ "
     }
 ]
